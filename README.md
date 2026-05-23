@@ -19,11 +19,11 @@ Aplikacja jest przykładowym projektem do zarządzania flotą pojazdów. Pokrywa
 - `DashboardScreen` — główny panel z aktualną rezerwacją i szybkim dostępem do szczegółów pojazdu
 - `PickupChecklistScreen` — checklista odbioru pojazdu z przyciskiem przejścia do sukcesu
 
-[Zrzut ekranu: ekran logowania]
+![Login screen](assets/screenshots/login.png)
 
-[Zrzut ekranu: dashboard z aktywną rezerwacją]
+![Dashboard screen](assets/screenshots/dashboard.png)
 
-[Zrzut ekranu: ekran checklisty odbioru]
+![Pickup checklist screen](assets/screenshots/pickup-checklist.png)
 
 ## Główne funkcje
 
